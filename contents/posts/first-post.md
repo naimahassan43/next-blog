@@ -1,4 +1,9 @@
-# First Post
+---
+date: "20/06/2022"
+title: "First Post"
+---
+
+# First Post from Marked
 
 This is my first post
 
