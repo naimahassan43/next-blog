@@ -7,7 +7,7 @@ export default function ThemeSwitch() {
   const text = darkMode ? "Light Mode" : "Dark Mode";
   return (
     <>
-      <button onClick={() => setDarkMode(!darkMode)}>{text}</button>;
+      <button onClick={() => setDarkMode(!darkMode)}>{text}</button>
       <style jsx>
         {`
           button {
