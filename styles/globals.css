@@ -4,12 +4,7 @@
   --text-color: rgb(32, 31, 31);
   --link-color: darkred;
 }
-/* Dark theme */
-:root {
-  --background-color: rgb(32, 31, 31);
-  --text-color: #fff;
-  --link-color: rgba(202, 156, 6, 0.848);
-}
+
 html,
 body {
   padding: 0;
