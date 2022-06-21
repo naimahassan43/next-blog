@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { slug } }) {
-  console.log("post page getStaticProps()", slug);
+  // console.log("post page getStaticProps()", slug);
   const post = await getPost(slug);
   return {
     props: { post },
